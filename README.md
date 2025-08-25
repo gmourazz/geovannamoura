@@ -9,7 +9,6 @@ Atuo como **Desenvolvedora Frontend**, mas meu objetivo é me aprofundar cada ve
 - 🌍 Aberta a colaborações e novos desafios!
 
 ---
-
 ## 📖 Sobre
 
 Além de codar, gosto de estudar arquitetura de sistemas, explorar UI/UX e compartilhar aprendizados.  
