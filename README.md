@@ -52,7 +52,7 @@ Acredito que a engenharia de software é um equilíbrio entre **lógica, design 
 
 ## ✨ Onde me encontrar
 📌 [Meu Portfólio](https://geovannamoura.com.br)  
-💼 [LinkedIn](https://www.linkedin.com/in/geovannamoura)  
+💼 [LinkedIn]([https://www.linkedin.com/in/geovannamoura](https://www.linkedin.com/in/geovanna-moura-23472b216/))  
 📧 **Contato:** geovannamoura.dev@gmail.com  
 
 ---
