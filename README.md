@@ -10,7 +10,12 @@ Atuo como **Desenvolvedora Frontend**, mas meu objetivo é me aprofundar cada ve
 
 ---
 
-<!-- Pac‑Man decorativo -->
+## 📖 Sobre
+
+Além de codar, gosto de estudar arquitetura de sistemas, explorar UI/UX e compartilhar aprendizados.  
+Acredito que a engenharia de software é um equilíbrio entre **lógica, design e experiência do usuário**.
+
+<!-- Pac-Man decorativo -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/pacman-contribution-graph-dark.svg">
@@ -19,20 +24,28 @@ Atuo como **Desenvolvedora Frontend**, mas meu objetivo é me aprofundar cada ve
   </picture>
 </p>
 
+---
+
 ## 🚀 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,figma,postgres,tailwind)
 
 ---
 
-## 📊 GitHub Stats
-![Geovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&theme=dracula)
+## ⭐ Estatísticas do GitHub
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&theme=dracula&langs_count=8"
+    height="160"
+  />
+</div>
 
 ---
 
----
-
-## 🌸 Contribution Graph 
+## 🌸 Contribution Graph Rosa
 [![Geovanna's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gmourazz&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&area_color=f472b6&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
