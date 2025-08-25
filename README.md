@@ -16,10 +16,22 @@ Atuo como **Desenvolvedora Frontend**, mas meu objetivo é me aprofundar cada ve
 ---
 
 ## 📊 GitHub Stats
-![Geovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovannamoura&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannamoura&layout=compact&theme=radical)
+![Geovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovannamoura&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannamoura&layout=compact&theme=dracula)
 
-[![Geovanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannamoura&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 👾 Contribution Graph (Pac-Man Style)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovannamoura/geovannamoura/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovannamoura/geovannamoura/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/geovannamoura/geovannamoura/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌸 Contribution Graph Rosa
+[![Geovanna's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovannamoura&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&area_color=f472b6&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
