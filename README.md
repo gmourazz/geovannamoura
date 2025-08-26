@@ -14,14 +14,11 @@ Atuo como **Desenvolvedora Frontend**, mas meu objetivo é me aprofundar cada ve
 Além de codar, gosto de estudar arquitetura de sistemas, explorar UI/UX e compartilhar aprendizados.  
 Acredito que a engenharia de software é um equilíbrio entre **lógica, design e experiência do usuário**.
 
-<!-- Pac-Man decorativo -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gmourazz/gmourazz/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
