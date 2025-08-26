@@ -1,68 +1,79 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+# 💜 Olá, eu sou a Geovanna!
+<p align="left">
+  Desenvolvedora Frontend em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong> e <strong>TypeScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+</p>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+## Sobre mim
 
-#
+- 🎓 Graduanda em Engenharia de Software
+- 📚 Estudando JavaScript, React.js, Node.js, TypeScript e desenvolvimento fullstack
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções criativas.
+- ❤️ Apaixonada por tecnologia e sempre buscando aprender mais
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
+---
+<br>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
-
-
-<h3 align="left">My Stack ~</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-</div>
-
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gmourazz/gmourazz/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+## ⭐ GitHub Stats
+<a href="https://github.com/gmourazz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&langs_count=6&theme=radical"/>
+
+## 📚 Meus estudos
+Estou constantemente aprendendo e aplicando novos conceitos através de projetos práticos.  
+Meu foco é transformar teoria em prática criando soluções reais e funcionais.
+
+> Acredito que a melhor forma de aprender é fazendo! 💜
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Sou estudante de <strong>Engenharia de Software</strong> e atuo como <strong>Desenvolvedora Frontend</strong>. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong> e <strong>TypeScript</strong>, com foco em desenvolvimento fullstack. Também venho explorando tecnologias como <strong>Next.js</strong>, <strong>TailwindCSS</strong>, aplicando esses conhecimentos em projetos pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<p align="left">
+  <a href="mailto:geovannamouragr@outlook.com" title="Outlook">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="https://www.linkedin.com/in/geovanna-moura-23472b216/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/gmouraz/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmourazz.gmourazz&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+<div align="center">
+  
+  [![Geovanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gmourazz&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=gmourazz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=gmourazz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
